@@ -2,7 +2,7 @@ import cv2
 
 def main():
     # Initialize video capture (0 for webcam, or provide video file path)
-    #video_path = 'istockphoto-1248544042-640_adpp_is.mp4'
+    # video_path = 'istockphoto-1248544042-640_adpp_is.mp4'
     video_path = 'istockphoto-1187482501-640_adpp_is.mp4'
     cap = cv2.VideoCapture(video_path)
 
